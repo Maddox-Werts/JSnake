@@ -86,7 +86,7 @@ function movement(){
         15 minutes? It was not that difficult haha.
         You can have it!
 
-        GITHUB - 
+        GITHUB - https://github.com/Maddox-Werts/JSnake
     */
 
     for(var i = blength; i >= 0; i--){
